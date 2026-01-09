@@ -2,6 +2,29 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.6](https://github.com/gee-community/qgis-earthengine-plugin/compare/v0.1.5...v0.1.6) (2025-12-04)
+
+
+### Bug Fixes
+
+* Pin the earthengine-api to a specific version to ensure Python compatibility ([88d4c76](https://github.com/gee-community/qgis-earthengine-plugin/commit/88d4c76a3e54bfae974e5ddc9da8cb63eb3b7736))
+* pin the earthengine-api to a specific version to ensure Python version compatibility ([ffb6464](https://github.com/gee-community/qgis-earthengine-plugin/commit/ffb6464d6251aec05162428a370b81445a6ba096))
+
+## [0.1.5](https://github.com/gee-community/qgis-earthengine-plugin/compare/v0.1.4...v0.1.5) (2025-11-13)
+
+
+### Bug Fixes
+
+* update bytes-per-pixel estimation to match EE Pixel accounting ([#415](https://github.com/gee-community/qgis-earthengine-plugin/issues/415)) ([3f1ace7](https://github.com/gee-community/qgis-earthengine-plugin/commit/3f1ace7762aa30d03849a7384e4c78275aa78a07))
+
+## [0.1.4](https://github.com/gee-community/qgis-earthengine-plugin/compare/v0.1.3...v0.1.4) (2025-09-12)
+
+
+### Bug Fixes
+
+* dereferencing error on windows ([#408](https://github.com/gee-community/qgis-earthengine-plugin/issues/408)) ([e52a2f1](https://github.com/gee-community/qgis-earthengine-plugin/commit/e52a2f15d082a4fb096dbc05be2cf3c14719a9d0))
+* remove query parameters to url that break xyz tile url ([#365](https://github.com/gee-community/qgis-earthengine-plugin/issues/365)) ([40ad9bc](https://github.com/gee-community/qgis-earthengine-plugin/commit/40ad9bc21bbe5d637ca2093a5c1e70d4326f0b14))
+
 ## [0.1.3](https://github.com/gee-community/qgis-earthengine-plugin/compare/v0.1.2...v0.1.3) (2025-08-24)
 
 
